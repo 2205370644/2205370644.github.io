@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# XzcBlogTemplate
 
-You can use the [editor on GitHub](https://github.com/2205370644/2205370644.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### 介绍
+基于layui写的纯HYML博客模板 一直挺喜欢Layui的 但是却一直没有怎么动手过，这次模板开发主要用于练习layui的使用。
+目前相当于只是一个初步版本，还有很多的不足，例如：手机页面自适应的调整，后台页面的开发，代码的规范等等。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 演示
+[点击进入](http://blog.nzdalao.com) 这套程序是正在开发的一套blog程序，套用的当前模板。
 
-### Markdown
+#### 进度
+目前页面暂停开发，正在基于本套模板+Thinkphp5框架开发一套PHP的Blog程序，Blog整站程序开发完成后将更新和新增大量页面。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[点击查看XzcBlog项目](https://gitee.com/XzcGroup/XzcBlog) 求Star
 
-```markdown
-Syntax highlighted code block
+#### 目前所支持的页面
 
-# Header 1
-## Header 2
-### Header 3
+1. index.html 首页
+2. detail.html 文章详情页
+3. search.html 搜索结果页面
+4. login.html 登陆注册页面（比较懒，所以注册和登陆都在同一个页面）
+5. caty.html 文章分类列表页
+6. label.html 基于标签展示文章页面
+7. admin.html 后台首页
 
-- Bulleted
-- List
+#### 使用说明
 
-1. Numbered
-2. List
+1. 本模板完全开源，不存在任何加密
+2. 开发时基于模块化进行开发的 结合tp5.2开发整站程序很适合
 
-**Bold** and _Italic_ and `Code` text
+#### 感谢
+感谢 [https://gitee.com/sentsin/layui](https://gitee.com/sentsin/layui) 提供了这么优秀的前端开发UI包
 
-[Link](url) and ![Image](src)
-```
+#### 参与贡献
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Fork 本仓库
+2. 新建 Feat_xxx 分支
+3. 提交代码
+4. 新建 Pull Request
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2205370644/2205370644.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
